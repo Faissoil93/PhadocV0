@@ -23,7 +23,7 @@ const WelcomeScreen = ({ navigation }) => {
       <Medium />
       <Caption>
         <TextBox>
-          <Title title1>{" Merci et Commençons"}</Title>
+          <Title title1>{" Commençons"}</Title>
           <Text body center mtp>
           Connectez-vous à votre compte ci-dessous ou inscrivez-vous pour surveiller votre santé.
           </Text>
