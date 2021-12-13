@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Phadoc App",
-    "slug": "PhadocApp",
+    "name": "Phadoc",
+    "slug": "Phadoc",
     "version": "1.0.0",
     "owner": "phadocv0",
     "orientation": "portrait",
-    "icon": "./app/assets/icon.png",
+    "icon": "./app/assets/images/logo.png",
     "splash": {
       "image": "./app/assets/splash.png",
       "resizeMode": "contain",
